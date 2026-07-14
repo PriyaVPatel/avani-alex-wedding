@@ -1,5 +1,0 @@
-PartyID,PartyName,GuestName,Invited_mehndi,Invited_vidhi,Invited_rehearsal,Invited_wedding,Invited_reception,RSVP_mehndi,RSVP_vidhi,RSVP_rehearsal,RSVP_wedding,RSVP_reception,Meal,Note,SubmittedAt
-P001,The Patel Family,Deep Patel,TRUE,TRUE,TRUE,TRUE,TRUE,,,,,,,,
-P001,The Patel Family,Priya Patel,TRUE,TRUE,TRUE,TRUE,TRUE,,,,,,,,
-P002,The Smith Family,John Smith,FALSE,FALSE,FALSE,TRUE,TRUE,,,,,,,,
-P002,The Smith Family,Jane Smith,FALSE,FALSE,FALSE,TRUE,TRUE,,,,,,,,
